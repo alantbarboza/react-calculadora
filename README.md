@@ -2,6 +2,10 @@
 
 Projeto de calculadora desenvolvido com **React**, **TypeScript** e **Vite** para praticar a criação de interfaces, gerenciamento de estado e operações matemáticas.
 
+## Visão geral
+
+![Calculadora](./public/assets/calculadora.png)
+
 ## Tecnologias utilizadas
 
 - React
